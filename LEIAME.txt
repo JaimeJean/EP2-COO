@@ -1,0 +1,18 @@
+Nome: Jaime Jean Soares Silva
+Nº USP: 11270761
+
+-----------------------------------------------------------------------
+
+Para execução do programa:
+
+No terminal acessar a pasta onde está o arquivo do jogo (no windows o comando é: cd local_da_pasta (onde local_da_pasta é o diretório onde se encontra a pasta do jogo)).
+
+ 
+Para compilar os arquivos, digitar os seguintes comandos no terminal:
+ javac BallManager.java 
+ javac FxBall.java
+
+Depois de ter todos os arquivos compilados na mesma pasta (inclusive os que estão na pasta "compilados"), executar o seguinte comando no terminal para execução do jogo:
+ 
+ java Pong FxBall
+
